@@ -1,7 +1,7 @@
 # Awesome MCP Korea (mcp-all-korea)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Servers](https://img.shields.io/badge/servers-56-blue)
+![Servers](https://img.shields.io/badge/servers-65-blue)
 ![Categories](https://img.shields.io/badge/categories-12-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-lightgrey)
 
@@ -34,11 +34,11 @@ Community-driven and open to contributions.
   - [📜 Legal & Government](#-legal--government) · 법률·정부 (9)
   - [🛒 Commerce & Retail](#-commerce--retail) · 커머스 (2)
   - [🏦 Finance & Tax](#-finance--tax) · 금융·세금 (8)
-  - [🏠 Real Estate](#-real-estate) · 부동산 (3)
-  - [🗺 Maps & Address](#-maps--address) · 지도·주소 (6)
+  - [🏠 Real Estate](#-real-estate) · 부동산 (9)
+  - [🗺 Maps & Address](#-maps--address) · 지도·주소 (7)
   - [🔎 Search & Trends](#-search--trends) · 검색·트렌드 (2)
   - [🌏 Tourism & Travel](#-tourism--travel) · 관광·여행 (2)
-  - [📊 Public Data](#-public-data) · 공공데이터·지역 (10)
+  - [📊 Public Data](#-public-data) · 공공데이터·지역 (12)
   - [🌦 Weather](#-weather) · 날씨 (6)
   - [🔤 Korean NLP & Language](#-korean-nlp--language) · 한국어 (3)
   - [🤝 Collaboration & Communication](#-collaboration--communication) · 협업 (4)
@@ -161,9 +161,21 @@ Only projects meeting all of the following criteria are listed.
 
 > 한국 부동산 실거래가, 등기, 청약, 투자분석 관련 MCP 서버 · MCP servers for Korean real estate, transactions, and housing subscriptions.
 
+**[ChangooLee/mcp-kr-realestate](https://github.com/ChangooLee/mcp-kr-realestate)** – 국토부 실거래가와 ECOS 등 공공 API를 통합해 한국 부동산 투자 분석을 수행하는 MCP 서버입니다.
+
+**[choihyeokbin/kakao-real-estate-mcp](https://github.com/choihyeokbin/kakao-real-estate-mcp)** – 국토교통부 공공 API와 카카오맵 API를 활용해 실거래가 기반 매물 검색·시세 조회·중간지점 추천을 제공하는 MCP 서버입니다.
+
 **[gum798/A2A-MCP-RealEstate](https://github.com/gum798/A2A-MCP-RealEstate)** – 국토부 실거래가와 위치 데이터를 바탕으로 투자가치·삶의질을 종합 평가하는 한국 부동산 추천 MCP 서버입니다.
 
-**[ChangooLee/mcp-kr-realestate](https://github.com/ChangooLee/mcp-kr-realestate)** – 국토부 실거래가와 ECOS 등 공공 API를 통합해 한국 부동산 투자 분석을 수행하는 MCP 서버입니다.
+**[immortal0900/Real-Estate-Location-Analyzer_MCP](https://github.com/immortal0900/Real-Estate-Location-Analyzer_MCP)** – 카카오 로컬 API로 주소 반경 내 교육·교통·편의·자연환경·미래가치 등 부동산 입지 요소를 분석하는 MCP 서버입니다.
+
+**[kimduksoo/naver-land-mcp](https://github.com/kimduksoo/naver-land-mcp)** – 네이버 부동산 비공식 API로 지역·좌표 기반 매물 조회, 단지 정보, 시세 추이를 제공하는 MCP 서버입니다.
+
+**[ngwoon/korea-realestate-mcp](https://github.com/ngwoon/korea-realestate-mcp)** – 네이버 부동산·직방·다방 등 여러 부동산 플랫폼의 매물 정보를 통합 조회하는 MCP 서버입니다.
+
+**[ohkyuetaek/korea-realestate-mcp](https://github.com/ohkyuetaek/korea-realestate-mcp)** – 공공데이터포털 국토교통부 API로 아파트 매매·전월세 시세 조회, 가격 추이 분석, 지역 비교 등 8가지 도구를 제공하는 MCP 서버입니다.
+
+**[Seonh0/naver-land-mcp](https://github.com/Seonh0/naver-land-mcp)** – 네이버 부동산 비공식 API로 전국 아파트 매물·시세·실거래가를 조회하는 6개 도구를 제공하는 MCP 서버입니다.
 
 **[tae0y/real-estate-mcp](https://github.com/tae0y/real-estate-mcp)** – 국토교통부·온비드·청약홈 데이터를 기반으로 한국 부동산 매매·전월세·청약 정보를 제공하는 MCP 서버입니다.
 
@@ -184,6 +196,8 @@ Only projects meeting all of the following criteria are listed.
 **[jeong-sik/kakao-api-mcp-server](https://github.com/jeong-sik/kakao-api-mcp-server)** – 카카오맵 API와 Daum 검색 API를 연동해 장소 검색, 좌표-주소 변환, 길찾기, 웹·이미지·블로그·카페 검색을 제공하는 MCP 서버입니다.
 
 **[cgoinglove/mcp-server-kakao-map](https://github.com/cgoinglove/mcp-server-kakao-map)** – 카카오맵 API 키워드 검색을 통해 한국 내 식당·카페·관광명소 등 장소를 추천하는 MCP 서버입니다.
+
+**[zeikar/kimcp](https://github.com/zeikar/kimcp)** – 네이버 블로그·뉴스 검색과 카카오맵 장소 검색·자동차·대중교통 길찾기 등 국내 주요 플랫폼 기능을 제공하는 MCP 서버입니다.
 
 ---
 
@@ -230,6 +244,10 @@ Only projects meeting all of the following criteria are listed.
 **[Dayoooun/korea-stats-mcp](https://github.com/Dayoooun/korea-stats-mcp)** – KOSIS OpenAPI 기반으로 한국 통계를 자연어로 검색·분석하는 MCP 서버입니다.
 
 **[ceami/opendata-mcp](https://github.com/ceami/opendata-mcp)** – 공공데이터포털 OpenAPI를 검색하고 표준 문서 기반으로 API를 호출하는 MCP 서버입니다.
+
+**[k08200/korea-mcp-suite](https://github.com/k08200/korea-mcp-suite)** – 기상청·서울시·국토교통부·행정안전부 공공데이터를 연동해 날씨·지하철·버스·부동산 실거래가·도로명주소 등 10가지 도구를 제공하는 MCP 서버입니다.
+
+**[SongT-50/korean-public-data-mcp](https://github.com/SongT-50/korean-public-data-mcp)** – 날씨·부동산 실거래가·대기질·경제통계·사업자조회 등 한국 5대 공공데이터를 AI에 연결하는 MCP 서버입니다.
 
 ---
 
