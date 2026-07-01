@@ -1,7 +1,7 @@
 # Awesome MCP Korea (mcp-all-korea)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Servers](https://img.shields.io/badge/servers-65-blue)
+![Servers](https://img.shields.io/badge/servers-82-blue)
 ![Categories](https://img.shields.io/badge/categories-12-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-lightgrey)
 
@@ -31,21 +31,20 @@ Community-driven and open to contributions.
 - [빠른 활용 시나리오 (Recommended Stacks)](#-빠른-활용-시나리오-recommended-stacks)
 - [선정 기준 (Inclusion Criteria)](#선정-기준-inclusion-criteria)
 - **목록 (List)**
-  - [📜 Legal & Government](#-legal--government) · 법률·정부 (9)
+  - [📜 Legal & Government](#-legal--government) · 법률·정부 (12)
   - [🛒 Commerce & Retail](#-commerce--retail) · 커머스 (2)
-  - [🏦 Finance & Tax](#-finance--tax) · 금융·세금 (8)
-  - [🏠 Real Estate](#-real-estate) · 부동산 (9)
-  - [🗺 Maps & Address](#-maps--address) · 지도·주소 (7)
-  - [🔎 Search & Trends](#-search--trends) · 검색·트렌드 (2)
-  - [🌏 Tourism & Travel](#-tourism--travel) · 관광·여행 (2)
-  - [📊 Public Data](#-public-data) · 공공데이터·지역 (12)
+  - [🏦 Finance & Tax](#-finance--tax) · 금융·세금 (10)
+  - [🏠 Real Estate](#-real-estate) · 부동산 (10)
+  - [🗺 Maps & Address](#-maps--address) · 지도·주소 (8)
+  - [🔎 Search & Trends](#-search--trends) · 검색·트렌드 (4)
+  - [🌏 Tourism & Travel](#-tourism--travel) · 관광·여행 (3)
+  - [📊 Public Data](#-public-data) · 공공데이터·지역 (14)
   - [🌦 Weather](#-weather) · 날씨 (6)
-  - [🔤 Korean NLP & Language](#-korean-nlp--language) · 한국어 (3)
+  - [🔤 Korean NLP & Language](#-korean-nlp--language) · 한국어 (4)
   - [🤝 Collaboration & Communication](#-collaboration--communication) · 협업 (4)
-  - [🧩 Miscellaneous](#-miscellaneous) · 기타 (1)
+  - [🧩 Miscellaneous](#-miscellaneous) · 기타 (5)
 - [기여 방법 (Contributing)](#기여-방법-contributing)
 - [라이선스 (License)](#라이선스-license)
-- [관련 프로젝트 (Related Projects)](#관련-프로젝트-related-projects)
 
 ---
 
@@ -123,6 +122,12 @@ Only projects meeting all of the following criteria are listed.
 
 **[workbookbulb863/korean-law-alio-mcp](https://github.com/workbookbulb863/korean-law-alio-mcp)** – 국가법령정보센터와 ALIO 공공기관 내부규정을 함께 검색·비교·분석하는 MCP 서버입니다.
 
+**[kimlawtech/korean-contracts](https://github.com/kimlawtech/korean-contracts)** – 근로·프리랜서·용역 등 9종 한국 계약서를 자동 생성하고, 개인정보 마스킹 MCP 서버로 민감정보를 로컬에서 보호하는 프로젝트입니다.
+
+**[seunghan91/korea-law-mcp-public](https://github.com/seunghan91/korea-law-mcp-public)** – 법제처 Open API와 하이브리드 검색(BM25+벡터)으로 국가법령·자치법규·판례를 조문 단위로 인용 조회하는 MCP 서버입니다.
+
+**[smilemin07/korean-rnd-regs-mcp](https://github.com/smilemin07/korean-rnd-regs-mcp)** – 국가법령정보센터 API로 국가 R&D 관련 규정 49종을 검색·검토하는 MCP 서버입니다.
+
 ---
 
 ### 🛒 Commerce & Retail
@@ -155,6 +160,10 @@ Only projects meeting all of the following criteria are listed.
 
 **[snaiws/DART-mcp-server](https://github.com/snaiws/DART-mcp-server)** – 금융감독원 DART API를 활용해 상장기업 공시, 기업 개황, 재무 정보 등을 조회하는 MCP 서버입니다.
 
+**[java-jaydev/kiwoom-mcp](https://github.com/java-jaydev/kiwoom-mcp)** – 키움증권 REST API로 국내 주식 현재가·호가·일봉·투자자 동향·계좌 정보를 조회하는 MCP 서버입니다.
+
+**[MarcoYou/open-proxy-mcp](https://github.com/MarcoYou/open-proxy-mcp)** – DART 전자공시(주주총회 안건 등)를 지분구조·재무지표·리스크 이벤트로 구조화해 분석하는 MCP 서버입니다.
+
 ---
 
 ### 🏠 Real Estate
@@ -166,6 +175,8 @@ Only projects meeting all of the following criteria are listed.
 **[choihyeokbin/kakao-real-estate-mcp](https://github.com/choihyeokbin/kakao-real-estate-mcp)** – 국토교통부 공공 API와 카카오맵 API를 활용해 실거래가 기반 매물 검색·시세 조회·중간지점 추천을 제공하는 MCP 서버입니다.
 
 **[gum798/A2A-MCP-RealEstate](https://github.com/gum798/A2A-MCP-RealEstate)** – 국토부 실거래가와 위치 데이터를 바탕으로 투자가치·삶의질을 종합 평가하는 한국 부동산 추천 MCP 서버입니다.
+
+**[hjongc/lease-safe-mcp](https://github.com/hjongc/lease-safe-mcp)** – 공공 부동산 데이터와 정부 지침을 기반으로 전월세 안전도 평가, 법정동코드 변환, 시장 비교 등 10가지 도구를 제공하는 MCP 서버입니다.
 
 **[immortal0900/Real-Estate-Location-Analyzer_MCP](https://github.com/immortal0900/Real-Estate-Location-Analyzer_MCP)** – 카카오 로컬 API로 주소 반경 내 교육·교통·편의·자연환경·미래가치 등 부동산 입지 요소를 분석하는 MCP 서버입니다.
 
@@ -197,6 +208,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[cgoinglove/mcp-server-kakao-map](https://github.com/cgoinglove/mcp-server-kakao-map)** – 카카오맵 API 키워드 검색을 통해 한국 내 식당·카페·관광명소 등 장소를 추천하는 MCP 서버입니다.
 
+**[heznpc/cairn](https://github.com/heznpc/cairn)** – 주소를 입력하면 한국식 약도(pictogram map) SVG를 자동 생성하고 지오코딩·주변 랜드마크·도로를 조회하는 MCP 서버입니다.
+
 **[zeikar/kimcp](https://github.com/zeikar/kimcp)** – 네이버 블로그·뉴스 검색과 카카오맵 장소 검색·자동차·대중교통 길찾기 등 국내 주요 플랫폼 기능을 제공하는 MCP 서버입니다.
 
 ---
@@ -209,6 +222,10 @@ Only projects meeting all of the following criteria are listed.
 
 **[jikime/py-mcp-naver-search](https://github.com/jikime/py-mcp-naver-search)** – 네이버 검색 API로 다양한 콘텐츠 검색 결과를 LLM이 처리하기 쉬운 구조화된 텍스트로 제공하는 MCP 서버입니다.
 
+**[dataartai/naver-api-mcp](https://github.com/dataartai/naver-api-mcp)** – 네이버 쇼핑인사이트·검색 API로 카테고리·키워드 트렌드와 블로그·지식iN·쇼핑 검색을 제공하는 MCP 서버입니다.
+
+**[uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search)** – 네이버 쇼핑·카페·뉴스·블로그 검색 API를 연동해 최저가 비교, 실사용자 후기, 실시간 뉴스를 조회하는 MCP 서버입니다.
+
 ---
 
 ### 🌏 Tourism & Travel
@@ -218,6 +235,8 @@ Only projects meeting all of the following criteria are listed.
 **[harimkang/mcp-korea-tourism-api](https://github.com/harimkang/mcp-korea-tourism-api)** – 한국관광공사 TourAPI를 기반으로 관광지·행사·숙박·맛집 정보를 검색하는 MCP 서버입니다.
 
 **[pjookim/mcp-visit-korea](https://github.com/pjookim/mcp-visit-korea)** – 지역·키워드·위치 기반으로 한국 관광 정보를 조회하는 MCP 서버입니다.
+
+**[bb4rjfl/korea-trip-concierge](https://github.com/bb4rjfl/korea-trip-concierge)** – 한국을 방문하는 외국인을 위해 장소·외국인 친화 매장·교통·결제 정보를 구조화해 제공하는 MCP 서버입니다.
 
 ---
 
@@ -249,6 +268,10 @@ Only projects meeting all of the following criteria are listed.
 
 **[SongT-50/korean-public-data-mcp](https://github.com/SongT-50/korean-public-data-mcp)** – 날씨·부동산 실거래가·대기질·경제통계·사업자조회 등 한국 5대 공공데이터를 AI에 연결하는 MCP 서버입니다.
 
+**[jinny-han/industrial-complex-api-mcp](https://github.com/jinny-han/industrial-complex-api-mcp)** – 전국 1,428개 산업단지 정보를 자연어로 검색·조회하는 MCP 서버입니다.
+
+**[pianovirus/kfda-mcp](https://github.com/pianovirus/kfda-mcp)** – 식약처 OpenAPI와 DUR 안전규칙으로 의약품 검색, 병용금기 확인, 건강기능식품 조회를 제공하는 MCP 서버입니다.
+
 ---
 
 ### 🌦 Weather
@@ -279,6 +302,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[winterjung/mcp-korean-spell](https://github.com/winterjung/mcp-korean-spell)** – 한국어 맞춤법과 문법 오류를 교정하는 도구를 제공하는 MCP 서버입니다.
 
+**[ai-screams/HwpForge](https://github.com/ai-screams/HwpForge)** – 한글 HWPX 문서를 Markdown과 상호 변환하고 JSON 편집·검증하는 9가지 도구를 제공하는 Rust 기반 MCP 서버입니다.
+
 ---
 
 ### 🤝 Collaboration & Communication
@@ -301,6 +326,14 @@ Only projects meeting all of the following criteria are listed.
 
 **[carasjung/kr-movie-tv-mcp](https://github.com/carasjung/kr-movie-tv-mcp)** – 한국 영화와 드라마의 박스오피스, 시청률, 수상 이력, 스트리밍 제공 여부, 출연진 정보를 조회하는 MCP 서버입니다.
 
+**[bb4rjfl/saju-concierge](https://github.com/bb4rjfl/saju-concierge)** – 생년월일시로 사주 명식을 계산해 운세·궁합·이름풀이·타로를 제공하는 MCP 서버입니다.
+
+**[kmjm231/korea-scholar-mcp](https://github.com/kmjm231/korea-scholar-mcp)** – 한국 학술지 논문을 검색하고 상세 정보를 조회하는 MCP 서버입니다.
+
+**[man2service/taxfood-mcp](https://github.com/man2service/taxfood-mcp)** – 공공기관 업무추진비 식당 데이터를 검색·지역별·랭킹으로 조회하는 MCP 서버입니다.
+
+**[MUSE-CODE-SPACE/content-genie-mcp](https://github.com/MUSE-CODE-SPACE/content-genie-mcp)** – 네이버·다음·유튜브 등 실시간 트렌드와 100여 개 한국 기념일 DB, 바이럴 점수 예측을 제공하는 한국 크리에이터용 MCP 서버입니다.
+
 ---
 
 ## 기여 방법 (Contributing)
@@ -318,10 +351,3 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 이 목록은 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) 라이선스 하에 공개됩니다.
 
 This list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
-
----
-
-## 관련 프로젝트 (Related Projects)
-
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) – A curated list of MCP servers.
-- [modelcontextprotocol](https://github.com/modelcontextprotocol) – Official MCP specification and SDKs.
