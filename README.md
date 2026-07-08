@@ -1,7 +1,7 @@
 # Awesome MCP Korea (mcp-all-korea)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Servers](https://img.shields.io/badge/servers-82-blue)
+![Servers](https://img.shields.io/badge/servers-93-blue)
 ![Categories](https://img.shields.io/badge/categories-12-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-lightgrey)
 
@@ -36,7 +36,7 @@ Community-driven and open to contributions.
   - [🏦 Finance & Tax](#-finance--tax) · 금융·세금 (10)
   - [🏠 Real Estate](#-real-estate) · 부동산 (10)
   - [🗺 Maps & Address](#-maps--address) · 지도·주소 (8)
-  - [🔎 Search & Trends](#-search--trends) · 검색·트렌드 (4)
+  - [🔎 Search & Trends](#-search--trends) · 검색·트렌드 (15)
   - [🌏 Tourism & Travel](#-tourism--travel) · 관광·여행 (3)
   - [📊 Public Data](#-public-data) · 공공데이터·지역 (14)
   - [🌦 Weather](#-weather) · 날씨 (6)
@@ -225,6 +225,28 @@ Only projects meeting all of the following criteria are listed.
 **[dataartai/naver-api-mcp](https://github.com/dataartai/naver-api-mcp)** – 네이버 쇼핑인사이트·검색 API로 카테고리·키워드 트렌드와 블로그·지식iN·쇼핑 검색을 제공하는 MCP 서버입니다. · [📄 상세](servers/dataartai--naver-api-mcp.md)
 
 **[uju777/mcp-server-naver-search](https://github.com/uju777/mcp-server-naver-search)** – 네이버 쇼핑·카페·뉴스·블로그 검색 API를 연동해 최저가 비교, 실사용자 후기, 실시간 뉴스를 조회하는 MCP 서버입니다. · [📄 상세](servers/uju777--mcp-server-naver-search.md)
+
+**[insung8150/AgentWebSearch-MCP](https://github.com/insung8150/AgentWebSearch-MCP)** – API 키 없이 Chrome 브라우저(CDP)로 네이버·구글·Brave를 병렬 검색하는 로컬 웹서치 MCP 서버입니다. · [📄 상세](servers/insung8150--AgentWebSearch-MCP.md)
+
+**[packative/naver-searchad-mcp](https://github.com/packative/naver-searchad-mcp)** – 네이버 검색광고 API로 캠페인·광고그룹·키워드·통계 관리 47개 도구를 제공하는 MCP 서버입니다. · [📄 상세](servers/packative--naver-searchad-mcp.md)
+
+**[tenacl/naver-shopping-insight-mcp](https://github.com/tenacl/naver-shopping-insight-mcp)** – 네이버 쇼핑인사이트 API로 분야별·기기별·성별·연령별 쇼핑 트렌드를 조회하는 MCP 서버입니다. · [📄 상세](servers/tenacl--naver-shopping-insight-mcp.md)
+
+**[swift-man/naver-mcp-py](https://github.com/swift-man/naver-mcp-py)** – 네이버 검색 API 15+ 도구와 데이터랩 트렌드 분석 10개 도구를 제공하는 Python FastMCP 서버입니다. · [📄 상세](servers/swift-man--naver-mcp-py.md)
+
+**[codivery/creir-mcp](https://github.com/codivery/creir-mcp)** – 네이버·카카오·구글 검색을 통합하고 날씨·위치·시간 기반 순위화를 수행하는 한국 특화 검색 MCP 서버입니다. · [📄 상세](servers/codivery--creir-mcp.md)
+
+**[SongT-50/korean-news-mcp](https://github.com/SongT-50/korean-news-mcp)** – 네이버 RSS와 Google News 기반 한국 뉴스·글로벌 테크 뉴스를 API 키 없이 무료로 제공하는 MCP 서버입니다. · [📄 상세](servers/SongT-50--korean-news-mcp.md)
+
+**[wjddusrb03/content-research-mcp](https://github.com/wjddusrb03/content-research-mcp)** – 네이버 트렌드·블로그·뉴스 검색과 파파고 번역, Unsplash 이미지를 한 번에 묶어 콘텐츠 리서치 보고서를 생성하는 MCP 서버입니다. · [📄 상세](servers/wjddusrb03--content-research-mcp.md)
+
+**[minjems/mcp-server-naver-suite](https://github.com/minjems/mcp-server-naver-suite)** – 네이버 검색·파파고 번역·지도 지오코딩을 하나로 통합한 올인원 네이버 API MCP 서버입니다. · [📄 상세](servers/minjems--mcp-server-naver-suite.md)
+
+**[slowdevv-shinnoah/naver-searchad-mcp](https://github.com/slowdevv-shinnoah/naver-searchad-mcp)** – 네이버 검색광고 API로 키워드 검색량·경쟁강도·연관키워드를 조회하는 MCP 서버입니다. · [📄 상세](servers/slowdevv-shinnoah--naver-searchad-mcp.md)
+
+**[alphago2580/naver_searchad_mcp](https://github.com/alphago2580/naver_searchad_mcp)** – 네이버 검색광고 키워드 통계와 입찰가 추정을 제공하며 Claude Desktop DXT 확장을 지원하는 MCP 서버입니다. · [📄 상세](servers/alphago2580--naver_searchad_mcp.md)
+
+**[justcoding-ys/mcp-naver-news](https://github.com/justcoding-ys/mcp-naver-news)** – 네이버 뉴스 API로 뉴스 검색·정렬·필터링을 제공하는 MCP 서버입니다. · [📄 상세](servers/justcoding-ys--mcp-naver-news.md)
 
 ---
 

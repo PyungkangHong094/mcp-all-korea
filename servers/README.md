@@ -58,12 +58,23 @@
 - **[heznpc/cairn](heznpc--cairn.md)** — 주소를 입력하면 한국식 약도(pictogram map) SVG를 자동 생성하고 지오코딩·주변 랜드마크·도로를 조회하는 MCP 서버입니다.
 - **[zeikar/kimcp](zeikar--kimcp.md)** — 네이버 블로그·뉴스 검색과 카카오맵 장소 검색·자동차·대중교통 길찾기 등 국내 주요 플랫폼 기능을 제공하는 MCP 서버입니다.
 
-## 🔎 Search & Trends (4)
+## 🔎 Search & Trends (15)
 
 - **[isnow890/naver-search-mcp](isnow890--naver-search-mcp.md)** — 네이버 검색 API와 데이터랩 API를 연동해 한국 서비스 특화 검색·트렌드 분석을 제공하는 MCP 서버입니다.
 - **[jikime/py-mcp-naver-search](jikime--py-mcp-naver-search.md)** — 네이버 검색 API로 다양한 콘텐츠 검색 결과를 LLM이 처리하기 쉬운 구조화된 텍스트로 제공하는 MCP 서버입니다.
 - **[dataartai/naver-api-mcp](dataartai--naver-api-mcp.md)** — 네이버 쇼핑인사이트·검색 API로 카테고리·키워드 트렌드와 블로그·지식iN·쇼핑 검색을 제공하는 MCP 서버입니다.
 - **[uju777/mcp-server-naver-search](uju777--mcp-server-naver-search.md)** — 네이버 쇼핑·카페·뉴스·블로그 검색 API를 연동해 최저가 비교, 실사용자 후기, 실시간 뉴스를 조회하는 MCP 서버입니다.
+- **[insung8150/AgentWebSearch-MCP](insung8150--AgentWebSearch-MCP.md)** — API 키 없이 Chrome 브라우저(CDP)로 네이버·구글·Brave를 병렬 검색하는 로컬 웹서치 MCP 서버입니다.
+- **[packative/naver-searchad-mcp](packative--naver-searchad-mcp.md)** — 네이버 검색광고 API로 캠페인·광고그룹·키워드·통계 관리 47개 도구를 제공하는 MCP 서버입니다.
+- **[tenacl/naver-shopping-insight-mcp](tenacl--naver-shopping-insight-mcp.md)** — 네이버 쇼핑인사이트 API로 분야별·기기별·성별·연령별 쇼핑 트렌드를 조회하는 MCP 서버입니다.
+- **[swift-man/naver-mcp-py](swift-man--naver-mcp-py.md)** — 네이버 검색 API 15+ 도구와 데이터랩 트렌드 분석 10개 도구를 제공하는 Python FastMCP 서버입니다.
+- **[codivery/creir-mcp](codivery--creir-mcp.md)** — 네이버·카카오·구글 검색을 통합하고 날씨·위치·시간 기반 순위화를 수행하는 한국 특화 검색 MCP 서버입니다.
+- **[SongT-50/korean-news-mcp](SongT-50--korean-news-mcp.md)** — 네이버 RSS와 Google News 기반 한국 뉴스·글로벌 테크 뉴스를 API 키 없이 무료로 제공하는 MCP 서버입니다.
+- **[wjddusrb03/content-research-mcp](wjddusrb03--content-research-mcp.md)** — 네이버 트렌드·블로그·뉴스 검색과 파파고 번역, Unsplash 이미지를 한 번에 묶어 콘텐츠 리서치 보고서를 생성하는 MCP 서버입니다.
+- **[minjems/mcp-server-naver-suite](minjems--mcp-server-naver-suite.md)** — 네이버 검색·파파고 번역·지도 지오코딩을 하나로 통합한 올인원 네이버 API MCP 서버입니다.
+- **[slowdevv-shinnoah/naver-searchad-mcp](slowdevv-shinnoah--naver-searchad-mcp.md)** — 네이버 검색광고 API로 키워드 검색량·경쟁강도·연관키워드를 조회하는 MCP 서버입니다.
+- **[alphago2580/naver_searchad_mcp](alphago2580--naver_searchad_mcp.md)** — 네이버 검색광고 키워드 통계와 입찰가 추정을 제공하며 Claude Desktop DXT 확장을 지원하는 MCP 서버입니다.
+- **[justcoding-ys/mcp-naver-news](justcoding-ys--mcp-naver-news.md)** — 네이버 뉴스 API로 뉴스 검색·정렬·필터링을 제공하는 MCP 서버입니다.
 
 ## 🌏 Tourism & Travel (3)
 
