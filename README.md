@@ -1,7 +1,7 @@
 # Awesome MCP Korea (mcp-all-korea)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Servers](https://img.shields.io/badge/servers-93-blue)
+![Servers](https://img.shields.io/badge/servers-156-blue)
 ![Categories](https://img.shields.io/badge/categories-12-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-lightgrey)
 
@@ -31,18 +31,18 @@ Community-driven and open to contributions.
 - [빠른 활용 시나리오 (Recommended Stacks)](#-빠른-활용-시나리오-recommended-stacks)
 - [선정 기준 (Inclusion Criteria)](#선정-기준-inclusion-criteria)
 - **목록 (List)**
-  - [📜 Legal & Government](#-legal--government) · 법률·정부 (12)
-  - [🛒 Commerce & Retail](#-commerce--retail) · 커머스 (2)
-  - [🏦 Finance & Tax](#-finance--tax) · 금융·세금 (10)
-  - [🏠 Real Estate](#-real-estate) · 부동산 (10)
-  - [🗺 Maps & Address](#-maps--address) · 지도·주소 (8)
-  - [🔎 Search & Trends](#-search--trends) · 검색·트렌드 (15)
-  - [🌏 Tourism & Travel](#-tourism--travel) · 관광·여행 (3)
-  - [📊 Public Data](#-public-data) · 공공데이터·지역 (14)
-  - [🌦 Weather](#-weather) · 날씨 (6)
-  - [🔤 Korean NLP & Language](#-korean-nlp--language) · 한국어 (4)
-  - [🤝 Collaboration & Communication](#-collaboration--communication) · 협업 (4)
-  - [🧩 Miscellaneous](#-miscellaneous) · 기타 (5)
+  - [📜 Legal & Government](#-legal--government) · 법률·정부 (15)
+  - [🛒 Commerce & Retail](#-commerce--retail) · 커머스 (4)
+  - [🏦 Finance & Tax](#-finance--tax) · 금융·세금 (32)
+  - [🏠 Real Estate](#-real-estate) · 부동산 (12)
+  - [🗺 Maps & Address](#-maps--address) · 지도·주소 (11)
+  - [🔎 Search & Trends](#-search--trends) · 검색·트렌드 (19)
+  - [🌏 Tourism & Travel](#-tourism--travel) · 관광·여행 (4)
+  - [📊 Public Data](#-public-data) · 공공데이터·지역 (23)
+  - [🌦 Weather](#-weather) · 날씨 (7)
+  - [🔤 Korean NLP & Language](#-korean-nlp--language) · 한국어 (12)
+  - [🤝 Collaboration & Communication](#-collaboration--communication) · 협업 (8)
+  - [🧩 Miscellaneous](#-miscellaneous) · 기타 (9)
 - [기여 방법 (Contributing)](#기여-방법-contributing)
 - [라이선스 (License)](#라이선스-license)
 
@@ -128,6 +128,12 @@ Only projects meeting all of the following criteria are listed.
 
 **[smilemin07/korean-rnd-regs-mcp](https://github.com/smilemin07/korean-rnd-regs-mcp)** – 국가법령정보센터 API로 국가 R&D 관련 규정 49종을 검색·검토하는 MCP 서버입니다. · [📄 상세](servers/smilemin07--korean-rnd-regs-mcp.md)
 
+**[shinkeonkim/e-gonghun-mcp](https://github.com/shinkeonkim/e-gonghun-mcp)** – 독립유공자 공적조서·포상 기록을 조회하는 e-공훈 MCP 서버입니다. · [📄 상세](servers/shinkeonkim--e-gonghun-mcp.md)
+
+**[seo-jinseok/korean-law-mcp](https://github.com/seo-jinseok/korean-law-mcp)** – 법제처 Open API로 법령·판례·행정규칙·법령해석례·서식을 검색하는 MCP 서버입니다. · [📄 상세](servers/seo-jinseok--korean-law-mcp.md)
+
+**[legalize-kr/cli-tools](https://github.com/legalize-kr/cli-tools)** – GitHub REST API로 미러링된 한국 법령·판례·행정규칙·자치법규를 클론·인증 없이 조회하는 CLI 겸 로컬 stdio MCP 서버(legalize-mcp)입니다. · [📄 상세](servers/legalize-kr--cli-tools.md)
+
 ---
 
 ### 🛒 Commerce & Retail
@@ -137,6 +143,10 @@ Only projects meeting all of the following criteria are listed.
 **[hmmhmmhm/daiso-mcp](https://github.com/hmmhmmhm/daiso-mcp)** – 주변 다이소 매장을 검색하고 원하는 상품의 재고 여부 및 가격을 조회하는 MCP 서버입니다. · [📄 상세](servers/hmmhmmhm--daiso-mcp.md)
 
 **[edward-kim-dev/kr-pc-deals-mcp](https://github.com/edward-kim-dev/kr-pc-deals-mcp)** – 다나와·컴퓨존 PC 부품 최저가 검색, 가격 비교, 가격 이력, 빌드 견적, CPU-메인보드-RAM 호환성 체크를 제공하는 MCP 서버입니다. · [📄 상세](servers/edward-kim-dev--kr-pc-deals-mcp.md)
+
+**[pak3430/Reservation-Platform-MCP-Server](https://github.com/pak3430/Reservation-Platform-MCP-Server)** – 네이버·에어비앤비·스페이스클라우드·야놀자·카카오 예약을 iCal 표준으로 통합 관리하는 MCP 서버입니다. · [📄 상세](servers/pak3430--Reservation-Platform-MCP-Server.md)
+
+**[uju777/coupang-mcp](https://github.com/uju777/coupang-mcp)** – 쿠팡 상품 검색과 다나와 실시간 최저가 비교(로켓배송·중고 포함)를 제공하는 MCP 서버입니다 (쿠팡 API 키 필요). · [📄 상세](servers/uju777--coupang-mcp.md)
 
 ---
 
@@ -164,6 +174,50 @@ Only projects meeting all of the following criteria are listed.
 
 **[MarcoYou/open-proxy-mcp](https://github.com/MarcoYou/open-proxy-mcp)** – DART 전자공시(주주총회 안건 등)를 지분구조·재무지표·리스크 이벤트로 구조화해 분석하는 MCP 서버입니다. · [📄 상세](servers/MarcoYou--open-proxy-mcp.md)
 
+**[chrisryugj/korean-dart-mcp](https://github.com/chrisryugj/korean-dart-mcp)** – OpenDART 83개 API를 15개 도구로 묶고 내부자 시그널·회계 리스크·HWP/PDF 첨부 변환까지 제공하는 MCP 서버입니다. · [📄 상세](servers/chrisryugj--korean-dart-mcp.md)
+
+**[whdrnr2583-cmd/koreanpulse](https://github.com/whdrnr2583-cmd/koreanpulse)** – 한국 DART 공시·5%룰 외국인 지분 흐름·행동주의 공시를 영어로 번역·제공하는 한국 주식 인텔리전스 MCP 서버입니다. · [📄 상세](servers/whdrnr2583-cmd--koreanpulse.md)
+
+**[RealYoungk/opendart-mcp](https://github.com/RealYoungk/opendart-mcp)** – 금감원 DART 전자공시 Open API 83종을 자연어로 조회하는 MCP 서버입니다. · [📄 상세](servers/RealYoungk--opendart-mcp.md)
+
+**[openpharma-org/asia-filings-mcp-server](https://github.com/openpharma-org/asia-filings-mcp-server)** – 일본 EDINET과 한국 DART로 아시아 7,700개 기업 재무공시를 검색·분석하는 MCP 서버입니다(한·일 다국가). · [📄 상세](servers/openpharma-org--asia-filings-mcp-server.md)
+
+**[keonho-kim/OpenDart-mcp](https://github.com/keonho-kim/OpenDart-mcp)** – DART API를 MCP로 제공해 기업 기본정보·금융정보 조회·분석을 지원하는 파이썬 MCP 서버입니다. · [📄 상세](servers/keonho-kim--OpenDart-mcp.md)
+
+**[BrainDAO/mcp-upbit](https://github.com/BrainDAO/mcp-upbit)** – 업비트 거래소의 공개 시세 조회와 선택적 사설 거래 도구를 제공하는 MCP 서버입니다. · [📄 상세](servers/BrainDAO--mcp-upbit.md)
+
+**[scjang01/tossinvest-mcp](https://github.com/scjang01/tossinvest-mcp)** – 토스증권 Open API로 현재가·호가·캔들·잔고·주문을 조회하는 한국 주식 MCP 서버입니다. · [📄 상세](servers/scjang01--tossinvest-mcp.md)
+
+**[kwonsw812/kiwoom-mcp](https://github.com/kwonsw812/kiwoom-mcp)** – 키움증권 계좌를 자연어로 제어해 주가 조회·매매 주문을 수행하는 MCP 서버입니다. · [📄 상세](servers/kwonsw812--kiwoom-mcp.md)
+
+**[hypn4/opendart-fss-mcp](https://github.com/hypn4/opendart-fss-mcp)** – 금융감독원 DART API를 85개 도구로 재무제표·정기보고서·지분공시를 조회하는 MCP 서버입니다. · [📄 상세](servers/hypn4--opendart-fss-mcp.md)
+
+**[ctk03272/mcp-korean-stock](https://github.com/ctk03272/mcp-korean-stock)** – FinanceDataReader와 네이버 차트 API로 한국 주식 종목·일봉·10분봉과 기술지표를 제공하는 MCP 서버입니다. · [📄 상세](servers/ctk03272--mcp-korean-stock.md)
+
+**[Kerydos/kiwoom_api_MCP](https://github.com/Kerydos/kiwoom_api_MCP)** – 키움 REST API 문서를 검색·조회하고 요청 예제 코드를 생성하는 MCP 서버입니다. · [📄 상세](servers/Kerydos--kiwoom_api_MCP.md)
+
+**[2geonhyup/dart-mcp-test](https://github.com/2geonhyup/dart-mcp-test)** – DART API로 상장기업 재무 데이터를 분석·시각화하는 Claude 확장 MCP 서버입니다. · [📄 상세](servers/2geonhyup--dart-mcp-test.md)
+
+**[vertical-mcp/dart-mcp](https://github.com/vertical-mcp/dart-mcp)** – 금감원 DART 전자공시(OpenDART) API로 기업 공시·개황·재무제표를 조회하는 MCP 서버입니다. · [📄 상세](servers/vertical-mcp--dart-mcp.md)
+
+**[nss133/dart-mcp](https://github.com/nss133/dart-mcp)** – OPEN DART(금감원 전자공시) 1차 공시 원본·지분공시·재무제표를 법무 검토용으로 제공하는 MCP 서버입니다. · [📄 상세](servers/nss133--dart-mcp.md)
+
+**[junter1989k-ai/korea-payments-mcp](https://github.com/junter1989k-ai/korea-payments-mcp)** – 토스페이먼츠 결제창으로 카드·카카오페이·네이버페이·가상계좌 등 한국 결제를 처리하는 MCP 서버입니다. · [📄 상세](servers/junter1989k-ai--korea-payments-mcp.md)
+
+**[zereight/bithumb-mcp](https://github.com/zereight/bithumb-mcp)** – 빗썸(Bithumb) 거래소 API로 시세·호가·캔들·잔고 조회 및 주문·출금을 처리하는 18개 도구 MCP 서버입니다. · [📄 상세](servers/zereight--bithumb-mcp.md)
+
+**[kokogo100/ragalgo-mcp-server](https://github.com/kokogo100/ragalgo-mcp-server)** – KOSPI/KOSDAQ·Upbit 대상 점수화된 뉴스 감성·기술적 분석·재무·스냅샷을 제공하는 RAG 기반 한국 금융 MCP 서버입니다. · [📄 상세](servers/kokogo100--ragalgo-mcp-server.md)
+
+**[bakyang2/kr-crypto-intelligence](https://github.com/bakyang2/kr-crypto-intelligence)** – 180+ 토큰 김치프리미엄·Upbit/Bithumb 시세·한국어 감성분석을 제공하는 크립토 인텔리전스 MCP 서버입니다. · [📄 상세](servers/bakyang2--kr-crypto-intelligence.md)
+
+**[navyjeongs/stock-news-mcp](https://github.com/navyjeongs/stock-news-mcp)** – 주식 뉴스·종목 분석·포트폴리오 관리를 제공하며 국내 뉴스를 네이버 검색 API로 가져오는 MCP 서버입니다. · [📄 상세](servers/navyjeongs--stock-news-mcp.md)
+
+**[solangii/upbit-mcp-server](https://github.com/solangii/upbit-mcp-server)** – 업비트(Upbit) 거래소 OpenAPI로 시세·계좌·주문·입출금·기술분석을 제공하는 MCP 서버입니다. · [📄 상세](servers/solangii--upbit-mcp-server.md)
+
+**[restful3/upbit-mcp-sse](https://github.com/restful3/upbit-mcp-sse)** – 업비트 OpenAPI를 SSE(Server-Sent Events)로 제공해 n8n 연동을 지원하는 MCP 서버입니다(solangii/upbit-mcp-server 기반). · [📄 상세](servers/restful3--upbit-mcp-sse.md)
+
+**[nangchang/stock-toss-mcp](https://github.com/nangchang/stock-toss-mcp)** – 토스증권 Open API로 주식 거래·시장 데이터·계좌 관리를 연동하는 MCP 서버입니다. · [📄 상세](servers/nangchang--stock-toss-mcp.md)
+
 ---
 
 ### 🏠 Real Estate
@@ -190,6 +244,10 @@ Only projects meeting all of the following criteria are listed.
 
 **[tae0y/real-estate-mcp](https://github.com/tae0y/real-estate-mcp)** – 국토교통부·온비드·청약홈 데이터를 기반으로 한국 부동산 매매·전월세·청약 정보를 제공하는 MCP 서버입니다. · [📄 상세](servers/tae0y--real-estate-mcp.md)
 
+**[coding-realtor/building-register-mcp](https://github.com/coding-realtor/building-register-mcp)** – data.go.kr 건축물대장 API로 표제부·층별·공시가격 등 12개 도구를 제공하는 MCP 서버입니다. · [📄 상세](servers/coding-realtor--building-register-mcp.md)
+
+**[hyunsuleedev/naverestate-mcp](https://github.com/hyunsuleedev/naverestate-mcp)** – Playwright로 네이버 부동산 아파트 매물 데이터를 수집하는 MCP 서버입니다. · [📄 상세](servers/hyunsuleedev--naverestate-mcp.md)
+
 ---
 
 ### 🗺 Maps & Address
@@ -211,6 +269,12 @@ Only projects meeting all of the following criteria are listed.
 **[heznpc/cairn](https://github.com/heznpc/cairn)** – 주소를 입력하면 한국식 약도(pictogram map) SVG를 자동 생성하고 지오코딩·주변 랜드마크·도로를 조회하는 MCP 서버입니다. · [📄 상세](servers/heznpc--cairn.md)
 
 **[zeikar/kimcp](https://github.com/zeikar/kimcp)** – 네이버 블로그·뉴스 검색과 카카오맵 장소 검색·자동차·대중교통 길찾기 등 국내 주요 플랫폼 기능을 제공하는 MCP 서버입니다. · [📄 상세](servers/zeikar--kimcp.md)
+
+**[jeon3709-dev/vworld-mcp](https://github.com/jeon3709-dev/vworld-mcp)** – VWorld Open API로 필지 경계·지적정보·용도지역·공시지가를 조회하는 부동산 개발용 MCP 서버입니다. · [📄 상세](servers/jeon3709-dev--vworld-mcp.md)
+
+**[yunkee-lee/mcp-kakao-local](https://github.com/yunkee-lee/mcp-kakao-local)** – 카카오 로컬 API 및 카카오맵에 연결해 주소 지오코딩·장소 검색·위치 상세정보를 제공하는 MCP 서버입니다. · [📄 상세](servers/yunkee-lee--mcp-kakao-local.md)
+
+**[Leejinhoe/kakao_mcp_secretary](https://github.com/Leejinhoe/kakao_mcp_secretary)** – 카카오 로컬·모빌리티·톡캘린더·메시지 API로 일정 중복과 이동 불가 동선을 감지하고 경로를 최적화하는 생활동선 보조 MCP 서버입니다. · [📄 상세](servers/Leejinhoe--kakao_mcp_secretary.md)
 
 ---
 
@@ -248,6 +312,14 @@ Only projects meeting all of the following criteria are listed.
 
 **[justcoding-ys/mcp-naver-news](https://github.com/justcoding-ys/mcp-naver-news)** – 네이버 뉴스 API로 뉴스 검색·정렬·필터링을 제공하는 MCP 서버입니다. · [📄 상세](servers/justcoding-ys--mcp-naver-news.md)
 
+**[PlatAid/kakao-keywordad-mcp](https://github.com/PlatAid/kakao-keywordad-mcp)** – 카카오 키워드광고(검색광고) 캠페인·광고그룹·키워드·성과 리포트를 조회·분석하는 MCP 서버입니다. · [📄 상세](servers/PlatAid--kakao-keywordad-mcp.md)
+
+**[floatingcloud/naver-search-mcp-fixed](https://github.com/floatingcloud/naver-search-mcp-fixed)** – 네이버 검색·데이터랩 트렌드를 제공하는 isnow890/naver-search-mcp의 프로토콜 오류 수정 포크입니다. · [📄 상세](servers/floatingcloud--naver-search-mcp-fixed.md)
+
+**[leeyseo/serper-discover-mcp](https://github.com/leeyseo/serper-discover-mcp)** – Serper 구글검색에 네이버 블로그·카페 검색과 장소 발굴(discover_places)을 더한 한국 특화 검색 MCP 서버입니다. · [📄 상세](servers/leeyseo--serper-discover-mcp.md)
+
+**[riileyy/naver-mcp](https://github.com/riileyy/naver-mcp)** – 네이버 실시간 검색을 제공하는 MCP 서버입니다. · [📄 상세](servers/riileyy--naver-mcp.md)
+
 ---
 
 ### 🌏 Tourism & Travel
@@ -259,6 +331,8 @@ Only projects meeting all of the following criteria are listed.
 **[pjookim/mcp-visit-korea](https://github.com/pjookim/mcp-visit-korea)** – 지역·키워드·위치 기반으로 한국 관광 정보를 조회하는 MCP 서버입니다. · [📄 상세](servers/pjookim--mcp-visit-korea.md)
 
 **[bb4rjfl/korea-trip-concierge](https://github.com/bb4rjfl/korea-trip-concierge)** – 한국을 방문하는 외국인을 위해 장소·외국인 친화 매장·교통·결제 정보를 구조화해 제공하는 MCP 서버입니다. · [📄 상세](servers/bb4rjfl--korea-trip-concierge.md)
+
+**[InSIkHwang/Naver-Flight-MCP](https://github.com/InSIkHwang/Naver-Flight-MCP)** – 네이버 항공권 검색 API로 직항·왕복 최저가 항공권 정보를 조회하는 MCP 서버입니다. · [📄 상세](servers/InSIkHwang--Naver-Flight-MCP.md)
 
 ---
 
@@ -294,6 +368,24 @@ Only projects meeting all of the following criteria are listed.
 
 **[pianovirus/kfda-mcp](https://github.com/pianovirus/kfda-mcp)** – 식약처 OpenAPI와 DUR 안전규칙으로 의약품 검색, 병용금기 확인, 건강기능식품 조회를 제공하는 MCP 서버입니다. · [📄 상세](servers/pianovirus--kfda-mcp.md)
 
+**[SilverQ/kipris-mcp](https://github.com/SilverQ/kipris-mcp)** – KIPRIS Plus Open API로 한국 특허·상표 등 지식재산 데이터를 검색·조회하는 MCP 서버입니다. · [📄 상세](servers/SilverQ--kipris-mcp.md)
+
+**[opendata-kr/narajangteo-prespec-mcp](https://github.com/opendata-kr/narajangteo-prespec-mcp)** – 나라장터 사전규격정보서비스(data.go.kr) API를 자연어로 검색·조회하는 MCP 서버입니다. · [📄 상세](servers/opendata-kr--narajangteo-prespec-mcp.md)
+
+**[opendata-kr/narajangteo-bid-mcp](https://github.com/opendata-kr/narajangteo-bid-mcp)** – 나라장터 입찰공고정보서비스(data.go.kr) API로 공공조달 입찰공고를 자연어 검색하는 MCP 서버입니다. · [📄 상세](servers/opendata-kr--narajangteo-bid-mcp.md)
+
+**[vertical-mcp/kolas-mcp](https://github.com/vertical-mcp/kolas-mcp)** – 국가기술표준원(KATS) 산하 KOLAS 공인 교정·시험·검사 기관 정보를 검색하는 MCP 서버입니다. · [📄 상세](servers/vertical-mcp--kolas-mcp.md)
+
+**[kwanGDss/mcp-bizinfo](https://github.com/kwanGDss/mcp-bizinfo)** – 기업마당(Bizinfo) 지원사업 데이터를 지역·대상·키워드·자연어로 검색하는 MCP 서버입니다. · [📄 상세](servers/kwanGDss--mcp-bizinfo.md)
+
+**[alphago2580/naramarketmcp](https://github.com/alphago2580/naramarketmcp)** – 조달청 나라장터(G2B) OPEN API로 입찰공고·낙찰·계약·조달통계·쇼핑몰 상품을 조회하는 15개 도구 MCP 서버입니다. · [📄 상세](servers/alphago2580--naramarketmcp.md)
+
+**[Tech-curator/korean-patent-mcp](https://github.com/Tech-curator/korean-patent-mcp)** – KIPRIS 특허정보 API로 출원인별 특허검색·상세조회·인용특허 분석을 제공하는 MCP 서버입니다. · [📄 상세](servers/Tech-curator--korean-patent-mcp.md)
+
+**[Won-ahamada/KERIS_EDUmcp](https://github.com/Won-ahamada/KERIS_EDUmcp)** – 학교알리미 API(17종)와 RISS 학술 API를 TOON 파일로 확장하는 18개 도구 한국 교육데이터 MCP 서버입니다. · [📄 상세](servers/Won-ahamada--KERIS_EDUmcp.md)
+
+**[seolcoding/korean-stat-mcp](https://github.com/seolcoding/korean-stat-mcp)** – KOSIS OpenAPI 통계 데이터를 검색·조회·분석할 수 있게 제공하는 Python MCP 서버입니다. · [📄 상세](servers/seolcoding--korean-stat-mcp.md)
+
 ---
 
 ### 🌦 Weather
@@ -312,6 +404,8 @@ Only projects meeting all of the following criteria are listed.
 
 **[dbsxortime/mcp-weather-server](https://github.com/dbsxortime/mcp-weather-server)** – 한국 기상청 API를 활용해 위치 기반 현재 날씨와 예보를 제공하는 MCP 서버입니다. · [📄 상세](servers/dbsxortime--mcp-weather-server.md)
 
+**[sunhye/mcp-korea-weather](https://github.com/sunhye/mcp-korea-weather)** – 기상청(KMA) API로 실황·초단기예보(기온·강수·바람·습도)를 제공하는 Fastify/Node 기반 MCP 서버입니다. · [📄 상세](servers/sunhye--mcp-korea-weather.md)
+
 ---
 
 ### 🔤 Korean NLP & Language
@@ -326,6 +420,22 @@ Only projects meeting all of the following criteria are listed.
 
 **[ai-screams/HwpForge](https://github.com/ai-screams/HwpForge)** – 한글 HWPX 문서를 Markdown과 상호 변환하고 JSON 편집·검증하는 9가지 도구를 제공하는 Rust 기반 MCP 서버입니다. · [📄 상세](servers/ai-screams--HwpForge.md)
 
+**[Dayoooun/hwpx-mcp](https://github.com/Dayoooun/hwpx-mcp)** – 한글 HWPX 문서를 표·문단·스타일·이미지까지 읽기·생성·편집하는 강화 MCP 서버입니다. · [📄 상세](servers/Dayoooun--hwpx-mcp.md)
+
+**[sinmb79/GongMun-Doctor-MCP](https://github.com/sinmb79/GongMun-Doctor-MCP)** – 공문서(.hwpx/.hwp)를 3단계 AI 교정으로 맞춤법·문법·공문 문체를 로컬에서 교정하는 MCP 서버입니다. · [📄 상세](servers/sinmb79--GongMun-Doctor-MCP.md)
+
+**[crowwan/hwp-mcp-advanced-custom](https://github.com/crowwan/hwp-mcp-advanced-custom)** – 한글(HWP) 문서를 59개 기능으로 생성·편집·서식·표·PDF 변환까지 제어하는 고도화 MCP 서버입니다. · [📄 상세](servers/crowwan--hwp-mcp-advanced-custom.md)
+
+**[skerishKang/33MCP_HWP_Limone](https://github.com/skerishKang/33MCP_HWP_Limone)** – 한글(HWP) 문서를 문서관리부터 고급 서식·표까지 제어하는 고도화 MCP 서버입니다. · [📄 상세](servers/skerishKang--33MCP_HWP_Limone.md)
+
+**[beomzh/hwpConverMdMCP](https://github.com/beomzh/hwpConverMdMCP)** – HWP/HWPX 파일을 Markdown으로 변환하는 hwpConverMd API의 MCP 서버입니다. · [📄 상세](servers/beomzh--hwpConverMdMCP.md)
+
+**[rgbcap/hwpx-mcp-server](https://github.com/rgbcap/hwpx-mcp-server)** – 한글 .hwpx 파일 텍스트 추출·찾아바꾸기·스타일 변경을 제공하는 MCP 서버입니다. · [📄 상세](servers/rgbcap--hwpx-mcp-server.md)
+
+**[devRonPark/kakao-playmcp](https://github.com/devRonPark/kakao-playmcp)** – 한국어 카카오톡 문장을 자연스러운 일본어로 변환·교정하고 학습 카드를 제공하는 일본어 코치 MCP 서버입니다. · [📄 상세](servers/devRonPark--kakao-playmcp.md)
+
+**[airmang/hwpx-mcp-server](https://github.com/airmang/hwpx-mcp-server)** – 한글(HWPX) 문서를 한컴오피스 없이 순수 파이썬으로 읽기·검색·편집·양식채움·생성·검증하는 MCP 서버입니다. · [📄 상세](servers/airmang--hwpx-mcp-server.md)
+
 ---
 
 ### 🤝 Collaboration & Communication
@@ -339,6 +449,14 @@ Only projects meeting all of the following criteria are listed.
 **[mskim8717/dooray-mcp](https://github.com/mskim8717/dooray-mcp)** – Dooray API를 활용해 일정 추가 및 관리를 지원하는 MCP 서버입니다. · [📄 상세](servers/mskim8717--dooray-mcp.md)
 
 **[hyeri0903/naver-works-mcp](https://github.com/hyeri0903/naver-works-mcp)** – 네이버 웍스(Naver Works) API를 연동하는 MCP 서버입니다. · [📄 상세](servers/hyeri0903--naver-works-mcp.md)
+
+**[youngsooco/k-mail-mcp](https://github.com/youngsooco/k-mail-mcp)** – 네이버·다음/카카오·Gmail·네이트·야후·iCloud 6개 메일을 Claude에 연결해 요약·관리하는 MCP 서버입니다. · [📄 상세](servers/youngsooco--k-mail-mcp.md)
+
+**[mwl313/KatokMCP](https://github.com/mwl313/KatokMCP)** – 카카오톡을 제어해 대화 읽기·메시지 전송·채팅방 목록 관리를 수행하는 MCP 서버입니다. · [📄 상세](servers/mwl313--KatokMCP.md)
+
+**[tallpizza/dooray-mcp](https://github.com/tallpizza/dooray-mcp)** – Dooray API를 6개 통합 도구로 묶어 업무·댓글·태그·검색을 관리하는 MCP 서버입니다. · [📄 상세](servers/tallpizza--dooray-mcp.md)
+
+**[inspirit941/kakao-bot-mcp-server](https://github.com/inspirit941/kakao-bot-mcp-server)** – 카카오 Developers API(카카오톡 메시지 전송·톡캘린더)를 AI 에이전트에 통합하는 MCP 서버입니다. · [📄 상세](servers/inspirit941--kakao-bot-mcp-server.md)
 
 ---
 
@@ -355,6 +473,14 @@ Only projects meeting all of the following criteria are listed.
 **[man2service/taxfood-mcp](https://github.com/man2service/taxfood-mcp)** – 공공기관 업무추진비 식당 데이터를 검색·지역별·랭킹으로 조회하는 MCP 서버입니다. · [📄 상세](servers/man2service--taxfood-mcp.md)
 
 **[MUSE-CODE-SPACE/content-genie-mcp](https://github.com/MUSE-CODE-SPACE/content-genie-mcp)** – 네이버·다음·유튜브 등 실시간 트렌드와 100여 개 한국 기념일 DB, 바이럴 점수 예측을 제공하는 한국 크리에이터용 MCP 서버입니다. · [📄 상세](servers/MUSE-CODE-SPACE--content-genie-mcp.md)
+
+**[choec77/mcp](https://github.com/choec77/mcp)** – 네이버 클라우드 플랫폼(NCP) 인프라를 자연어로 생성·조회·관리하는 MCP 서버입니다. · [📄 상세](servers/choec77--mcp.md)
+
+**[dangamsoft/cafe-mcp](https://github.com/dangamsoft/cafe-mcp)** – 한국 사주명리(오행·격국·용신) 분석을 OWL 온톨로지 기반으로 제공하는 MCP 서버입니다. · [📄 상세](servers/dangamsoft--cafe-mcp.md)
+
+**[xrissohn/nori-buddy-mcp](https://github.com/xrissohn/nori-buddy-mcp)** – 카카오톡 안에서 대화하는 성장형 AI 캐릭터 친구(카카오 PlayMCP 제출작) MCP 서버입니다. · [📄 상세](servers/xrissohn--nori-buddy-mcp.md)
+
+**[re-rank/UIUX-MCP](https://github.com/re-rank/UIUX-MCP)** – 정부 표준 디자인시스템 KRDS 컴포넌트 검색·HTML 코드 삽입·디자인토큰 조회·접근성/준수 검증을 제공하는 9개 도구 MCP 서버입니다. · [📄 상세](servers/re-rank--UIUX-MCP.md)
 
 ---
 
